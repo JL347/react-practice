@@ -1,0 +1,19 @@
+body {
+    background-image: url("baseball.jpg");
+    background-color: grey;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
